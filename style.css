@@ -1,0 +1,11 @@
+body{
+    margin: auto;
+    margin-top: 20%;
+    text-align:center;
+    
+    background-color: azure;
+    font-size: 12px;
+    color: darkblue;
+    font-family: fantasy;
+    line-height: 30px;
+}
